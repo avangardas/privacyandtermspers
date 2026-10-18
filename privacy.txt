@@ -1,0 +1,2 @@
+"Personal, non-commercial use by Kaz. Bank data is fetched only for my own accounts, stored only on my self-hosted Actual Budget server,
+      and never shared.
